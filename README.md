@@ -6,21 +6,17 @@ E-entrepreneurs Community Platform
 https://www.drupal.org/docs/7/install
 
 
-2- install the attached theme:
+2- Install the attached theme:
+- Install and enable https://www.drupal.org/project/jquery_update
+- Visit /admin/config/development/jquery_update
+- Set “Default JQuery Version” option to >= 1.10
+- Install and enable https://www.drupal.org/project/bootstrap 
+- Install and enable the community theme
 
-A - Install and enable https://www.drupal.org/project/jquery_update
-B - * Visit /admin/config/development/jquery_update
-		* Set “Default JQuery Version” option to 1.10
-		* Save configuration
-C - Install and enable https://www.drupal.org/project/bootstrap community_theme
-D - Install and enable the attached theme community_theme.zip
-https://www.drupal.org/docs/7/extending-drupal/installing-themes
-
-
-3- Install  and enable the attached modules and their dependencies
+3- Install and enable the attached modules and their dependencies
 https://www.drupal.org/docs/7/extending-drupal/modules-find-import-enable-configure
 
-Attached community_modules.zip contains the following modules:
+Features folder contains the following modules (Features):
 
 Community Common "community_common":
 - All image styles
