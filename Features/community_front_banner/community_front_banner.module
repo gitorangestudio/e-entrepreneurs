@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Community Front Banner feature.
+ */
+
+include_once 'community_front_banner.features.inc';

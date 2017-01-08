@@ -1,0 +1,88 @@
+name = Community theme
+description = A Bootstrap Sub-theme.
+core = 7.x
+base theme = bootstrap
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; General Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[navigation]     = 'Navigation'
+regions[header]         = 'Top Bar'
+regions[highlighted]    = 'Highlighted'
+regions[help]           = 'Help'
+regions[content]        = 'Content'
+regions[sidebar_first]  = 'Primary'
+regions[sidebar_second] = 'Secondary'
+regions[footer]         = 'Footer'
+regions[page_top]       = 'Page top'
+regions[page_bottom]    = 'Page bottom'
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Front Page Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[front_slider]            = 'Front - Slider'
+regions[front_announcement]      = 'Front - Announcement'
+regions[front_about]             = 'Front - About'
+regions[front_projects]          = 'Front - Featured Projects'
+regions[front_success_stories]   = 'Front - Success Stories'
+regions[front_events]            = 'Front - Events'
+regions[front_resources]         = 'Front - Resources'
+regions[front_questions]         = 'Front - Questions'
+regions[front_partners]          = 'Front - Partners'
+regions[front_footer]            = 'Front - Footer'
+
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Stylesheets
+;;;;;;;;;;;;;;;;;;;;;
+
+stylesheets[all][] = css/responsive.css
+stylesheets[all][] = css/style2.css
+stylesheets[all][] = css/style3.css
+stylesheets[all][] = css/intel.css
+stylesheets[all][] = bootstrap/css/bootstrap.min.css
+stylesheets[all][] = font-awesome/css/font-awesome.min.css
+stylesheets[all][] = css/pro-bars.min.css
+stylesheets[all][] = css/animate.min.css
+;stylesheets[all][] = jasny-bootstrap/css/jasny-bootstrap.min.css
+stylesheets[all][] = css/jquery.qtip.min.css
+
+
+stylesheets[all][] = templates/front-page/css/all-stylesheet.css
+stylesheets[all][] = templates/front-page/css/style.css
+stylesheets[all][] = templates/front-page/css/colors/default.css
+stylesheets[all][] = //code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css
+
+
+stylesheets[all][] = ds_2col_stacked_fluid.css
+
+; ;;;;;;;;;;;;;;;;;;;;;
+; ;; Scripts
+; ;;;;;;;;;;;;;;;;;;;;;
+; 
+scripts[] = 'js/jquery-ui.min.js'
+scripts[] = 'js/modernizer.js'
+scripts[] = 'bootstrap/js/bootstrap.min.js'
+scripts[] = 'js/circle-progress.js'
+scripts[] = 'js/jquery.navgoco.js'
+scripts[] = 'js/main.js'
+scripts[] = 'templates/front-page/js/isotope/jquery.isotope.min.js'
+scripts[] = 'templates/front-page/js/isotope/custom-isotope.js'
+scripts[] = 'js/masonry.pkgd.min.js'
+scripts[] = 'templates/front-page/js/animation/jquery.appear.js'
+scripts[] = 'templates/front-page/owl-carousel/owl-carousel/owl.carousel.js'
+scripts[] = 'templates/front-page/js/custom.js'
+scripts[] = 'templates/front-page/js/parallex/script.js'
+scripts[] = 'templates/front-page/js/nav/jquery.nav.js'
+scripts[] = 'templates/front-page/js/sticky/jquery.sticky.js'
+scripts[] = 'templates/front-page/js/SmoothScroll/SmoothScroll.js'
+scripts[] = 'templates/front-page/js/jquery.fitvids.js'
+scripts[] = 'js/theia-sticky-sidebar.js'
+scripts[] = 'js/isotope.pkgd.min.js'
+scripts[] = 'js/jquery.gray.min.js'
+scripts[] = 'js/jquery.qtip.min.js'
+scripts[] = 'jasny-bootstrap/js/jasny-bootstrap.min.js'

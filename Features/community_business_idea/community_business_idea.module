@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Community Business Idea feature.
+ */
+
+include_once 'community_business_idea.features.inc';

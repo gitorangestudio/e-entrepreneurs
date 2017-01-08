@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Community Agenda feature.
+ */
+
+include_once 'community_agenda.features.inc';

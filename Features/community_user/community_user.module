@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Community User feature.
+ */
+
+include_once 'community_user.features.inc';

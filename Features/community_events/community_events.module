@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Community Events feature.
+ */
+
+include_once 'community_events.features.inc';

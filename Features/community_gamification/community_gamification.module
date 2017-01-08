@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Community Gamification feature.
+ */
+
+include_once 'community_gamification.features.inc';

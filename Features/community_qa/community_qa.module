@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Community Q&A feature.
+ */
+
+include_once 'community_qa.features.inc';

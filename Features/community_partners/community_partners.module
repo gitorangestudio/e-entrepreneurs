@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Community Partners feature.
+ */
+
+include_once 'community_partners.features.inc';

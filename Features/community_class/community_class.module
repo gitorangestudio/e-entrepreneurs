@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Community Class feature.
+ */
+
+include_once 'community_class.features.inc';

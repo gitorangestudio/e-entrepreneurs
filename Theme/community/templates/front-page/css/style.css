@@ -1,0 +1,192 @@
+.navbar-inverse {
+    background-color: #02518E;
+    background: #02518E;
+    -webkit-box-shadow: 0 1px 1px rgb(0, 0, 0);
+    box-shadow: 0 1px 1px rgb(0, 0, 0);
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+
+.navbar-brand {
+    padding: 0;
+    margin-top: 13px;
+}
+.logo-virtual{
+float:left;
+}
+#intel-logo{
+    display: block;
+    float: left;
+}
+
+#unido-logo{
+    display: block;
+    float: left;
+    margin-top: -2px;
+}
+
+#logo-spereator {
+	display: block;
+    float: right;
+    width: 1px;
+    background-color: #8E8E8E;
+    height: 43px;
+    margin: 11px 20px;
+}
+
+
+#block-views-home-slider-block {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+
+
+.tp-button {
+    clear: both;
+    display: inline-block;
+    background-color: #02518E;
+    margin: 0 auto;
+    border: 1px solid #40668E;
+    color: white;
+    padding: 5px 10px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.tp-description {
+    max-width: 760px;
+    dispaly: block;
+    margin: 0 auto;
+    word-break: break-all;
+    color: white;
+    clear: both;
+}
+
+.project-link {
+    background-color: #02518E;
+    color: white;
+    padding: 8px 10px;
+    font-size: 13px;
+    font-family: 'Roboto Condensed', sans-serif;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;    
+}
+
+.project-link:hover,
+.project-link:focus{
+    text-decoration: none;
+    color: white;
+    background-color: #045EA0;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;    
+}
+
+.owl-wrapper-outer{
+    
+}
+
+#block-views-nodequeue-1-block ,
+#block-views-latest-events-block,
+#block-views-success-stories-block {
+padding: 0;
+}
+
+.resource-title {
+	color: white;
+	font-size: 14px;
+	display: none;
+	-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	transition: all 1s;   
+	font-size: 19px;
+}
+
+#container-thumbs .items:hover .resource-title{
+display: block;
+	-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	transition: all 1s;   	
+	
+}
+
+.event-link{
+    color: #333;
+    text-decoration: none;
+}
+.event-link:hover{
+    color: #333;
+    text-decoration: none;
+}
+
+#hd-brand {
+    display: block;
+    float: left;
+    margin-left: 10px;
+    color: white;
+    font-size: 22px;
+    line-height: 29px;
+}
+
+#block-system-main {
+padding-top: 0;
+padding-bottom: 40px;
+}
+
+.about-img img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    border: 2px solid #D4D4D4;
+    box-shadow: 0 1px 14px rgba(0, 113, 197, 0.27);
+}
+
+.navbar-inverse  {
+padding: 0;
+}
+
+.rules-link-wrapper {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.rules-link-wrapper a{
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    border: 1px solid;
+}
+
+.rules-link-wrapper a:hover{
+    text-decoration: none;
+}
+
+.pane-node-rules-links-accept-new-project,
+.pane-node-rules-links-decline-new-project,
+.pane-node-rules-links-need-more-info {
+	display: inline-block;
+}
+
+.rules-link-accept_new_project a{
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+
+.rules-link-decline_new_project a{
+    background-color: #c9302c;
+    border-color: #ac2925;
+}
+
+.rules-link-need_more_info a{
+    background-color: #31b0d5;
+    border-color: #269abc;
+}
+
+.view-empty {
+    padding: 5px;
+}

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Community Success Story feature.
+ */
+
+include_once 'community_success_story.features.inc';

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Community Announcement feature.
+ */
+
+include_once 'community_announcement.features.inc';
