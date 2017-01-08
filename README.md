@@ -118,11 +118,11 @@ https://www.drupal.org/docs/7/extending-drupal/modules-find-import-enable-config
 
 ## Step by Step:
 
-1- Extract attached modules to /sites/all/modules/custom
-2- Download dependencies one by one or by using this Drush command:
+- Extract attached modules to /sites/all/modules/custom
+- Download dependencies one by one or by using this Drush command:
 ```sh
 drush dl -y addressfield autocomplete_deluxe better_exposed_filters conditional_fields countries date ds editablefields field_collection field_group field_permissions ctools link og og_role_delegate og_role_override ogfile panels panels_bootstrap_layouts picture profile2 registration rules rules_link telephone term_reference_tree views views_load_more entity entityreference file_entity views_bulk_operations markup token breakpoints jquery_update nodequeue taxonomy_display pathauto profile2_regpath transliteration strongarm smart_trim field_validation features_extra media field  webform_rules quiz flag eck context flexslider flexslider_fields
 ```
-3- It required to apply this patch to make profile2_regpath compatible with features module
-4- Enable dependencies one by one or by using this Drush command:
-5- Enable the features modules.
+- It required to apply this patch to make profile2_regpath compatible with features module
+- Enable dependencies one by one or by using this Drush command:
+- Enable the features modules.
